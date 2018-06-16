@@ -19,6 +19,6 @@ Step 2. Add the dependency
 
 ```
 dependencies {
-    implementation 'com.github.Ryfthink:android-gradient-progress-bar:v0.0.1'
+    implementation 'com.github.Ryfthink:android-gradient-progress-bar:v1.0.0'
 }
 ```
