@@ -16,7 +16,7 @@ import android.view.animation.AccelerateDecelerateInterpolator;
 /**
  * Created by Septenary on 2018/6/16.
  *
- * <p><img src="http://assets.septenary.cn/dev/android/colorful_progress_preview_style1.png"></p>
+ * <p><img src="https://github.com/Ryfthink/android-gradient-progress-bar/blob/master/arts/preview.gif"></p>
  * <pre>
  * &lt;cn.septenary.ui.widget.GradientProgressBar
  *    android:layout_width="320dp"
